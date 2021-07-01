@@ -1,5 +1,5 @@
 
-  <h1>Machine Learning with label and data noise</h1>
+  <h1>Machine learning with label and data noise</h1>
   
   <p>Image classification experiments on machine learning problems based on PyTorch. </p>
   <h2>Table of Contents</h2>
